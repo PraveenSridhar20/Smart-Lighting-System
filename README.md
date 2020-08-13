@@ -1,2 +1,2 @@
 # Smart-Lighting-System
-This repository contains the design file and code for a smart lighting system for a conference hall.
+This repository contains the design file and code for a smart lighting system for a conference hall.The lights for each row turn on when a person enters the hall. This is detected using IR sensors. The lights remain on as long as there are people in the row. The lights go off when the entire row empties completely. This was done using the 8086 microprocessor and the 8255 peripheral and was completed as a part of the requirement for the course, Microprocessors and Interfacing.’
